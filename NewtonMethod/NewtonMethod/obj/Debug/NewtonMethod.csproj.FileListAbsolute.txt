@@ -1,0 +1,7 @@
+C:\Users\Олег\source\repos\NewtonMethod\NewtonMethod\bin\Debug\NewtonMethod.exe.config
+C:\Users\Олег\source\repos\NewtonMethod\NewtonMethod\bin\Debug\NewtonMethod.exe
+C:\Users\Олег\source\repos\NewtonMethod\NewtonMethod\bin\Debug\NewtonMethod.pdb
+C:\Users\Олег\source\repos\NewtonMethod\NewtonMethod\obj\Debug\NewtonMethod.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\NewtonMethod\NewtonMethod\obj\Debug\NewtonMethod.exe
+C:\Users\Олег\source\repos\NewtonMethod\NewtonMethod\obj\Debug\NewtonMethod.pdb
+C:\Users\Олег\source\repos\NewtonMethod\NewtonMethod\obj\Debug\NewtonMethod.csprojAssemblyReference.cache
