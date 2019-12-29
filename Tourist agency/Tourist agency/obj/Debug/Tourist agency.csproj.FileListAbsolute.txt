@@ -1,0 +1,7 @@
+C:\Users\Олег\source\repos\Tourist agency\Tourist agency\bin\Debug\Tourist agency.exe.config
+C:\Users\Олег\source\repos\Tourist agency\Tourist agency\bin\Debug\Tourist agency.exe
+C:\Users\Олег\source\repos\Tourist agency\Tourist agency\bin\Debug\Tourist agency.pdb
+C:\Users\Олег\source\repos\Tourist agency\Tourist agency\obj\Debug\Tourist agency.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\Tourist agency\Tourist agency\obj\Debug\Tourist agency.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\Tourist agency\Tourist agency\obj\Debug\Tourist agency.exe
+C:\Users\Олег\source\repos\Tourist agency\Tourist agency\obj\Debug\Tourist agency.pdb
